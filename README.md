@@ -15,4 +15,4 @@ Live Demo:
  https://vaishnavi-swamii.github.io/PRODIGY_WD_02/
 
 GitHub Repository:
-
+https://github.com/vaishnavi-swamii/PRODIGY_WD_02
