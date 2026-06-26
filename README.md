@@ -10,3 +10,9 @@ Features:
 - Responsive Design
 
 Built using HTML, CSS and JavaScript.
+
+Live Demo:
+https://lnkd.in/dfEBrPhM
+
+GitHub Repository:
+https://lnkd.in/dMiQacCv
