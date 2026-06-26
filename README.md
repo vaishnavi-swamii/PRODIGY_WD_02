@@ -12,7 +12,7 @@ Features:
 Built using HTML, CSS and JavaScript.
 
 Live Demo:
-https://lnkd.in/dfEBrPhM
+ https://vaishnavi-swamii.github.io/PRODIGY_WD_02/
 
 GitHub Repository:
-https://lnkd.in/dMiQacCv
+
